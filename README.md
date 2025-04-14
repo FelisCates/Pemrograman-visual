@@ -57,11 +57,11 @@ Berikut beberapa cuplikan tampilan dari mockup aplikasi:
 
 - Figma (untuk desain mockup)
 - HTML, CSS, JavaScript (jika dikembangkan sebagai web app)
-- Framework tambahan (opsional): Bootstrap / TailwindCSS / Vue / React
+- Framework tambahan: Bootstrap (Mungkin akan menggunakan bootstrap))
 
 ---
 
 ## 🗒️ Catatan
 
-- Proyek ini masih dalam tahap perancangan.
+- Masih dalam tahap perancangan.
 - Konten dapat berubah sesuai kebutuhan pengembangan.
