@@ -1,11 +1,11 @@
 # Pemrograman-visual
-** Ika Arinun Nisa' (2213020042)
+Ika Arinun Nisa' (2213020042)
 
 ---
 
 # 📘 Aplikasi Vertebrata
 
-** Aplikasi Vertebrata** merupakan media pembelajaran interaktif berbentuk buku digital yang memberikan pengetahuan tentang hewan bertulang belakang (vertebrata). Materi yang disajikan meliputi:
+Aplikasi Vertebrata** merupakan media pembelajaran interaktif berbentuk buku digital yang memberikan pengetahuan tentang hewan bertulang belakang (vertebrata). Materi yang disajikan meliputi:
 
 - Pengertian vertebrata  
 - Jenis-jenis hewan vertebrata, yaitu:
