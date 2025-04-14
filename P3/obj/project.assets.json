@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Semester 6\\Pemrograman Visual\\Pemrograman Visual.csproj",
+      "projectUniqueName": "D:\\Semester 6\\Pemrograman Visual\\P3\\Pemrograman Visual.csproj",
       "projectName": "Pemrograman Visual",
-      "projectPath": "D:\\Semester 6\\Pemrograman Visual\\Pemrograman Visual.csproj",
+      "projectPath": "D:\\Semester 6\\Pemrograman Visual\\P3\\Pemrograman Visual.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "D:\\Semester 6\\Pemrograman Visual\\obj\\",
+      "outputPath": "D:\\Semester 6\\Pemrograman Visual\\P3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pemrograman Visual")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d411d6c1ad6b7b002094466460392c9fe724ff2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pemrograman Visual")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pemrograman Visual")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
