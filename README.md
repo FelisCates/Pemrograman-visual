@@ -22,7 +22,7 @@ Aplikasi Vertebrata** merupakan media pembelajaran interaktif berbentuk buku dig
 Mockup aplikasi ini dirancang menggunakan [**Figma**](https://www.figma.com/). Desain mengusung konsep buku edukatif interaktif dengan tampilan halaman seperti buku asli.
 
 🔗 Link Mockup (Public - View Only):
-[Figma - Aplikasi Vertebrata](https://www.figma.com/proto/Wsp4Oqj9kb8vP0Zbgq9kFc/0098_Ragil-Karnoto?node-id=2-4&t=xRAVCeNpwb1oJs4M-1)
+https://www.figma.com/design/pZyOhvCiZVmO72jFG8CVes/KepoInTheme?node-id=8-29&t=zzovoHzHvTF4z8LZ-1
 
 ---
 
